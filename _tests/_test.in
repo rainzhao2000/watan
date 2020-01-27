@@ -1,0 +1,112 @@
+complete 37
+complete 16
+complete 25
+complete 44
+complete 13
+complete 30
+complete 39
+complete 28
+help
+board
+status
+criteria
+achieve -1
+achieve 67
+achieve 0
+complete -1
+complete 0
+complete 1
+complete 50
+improve -1
+improve 0
+improve 50
+save _save0
+load
+roll
+6
+status
+criteria
+save _save1
+next
+load
+roll
+6
+status
+criteria
+save _save2
+next
+load
+roll
+8
+status
+criteria
+save _save3
+next
+load
+roll
+11
+status
+criteria
+save _save4
+next
+load
+roll
+5
+status
+criteria
+save _save5
+next
+roll
+3
+status
+criteria
+save _save6
+next
+roll
+12
+status
+save _save7
+trade Blue STUDY CAFFEINE
+yes
+status
+trade Blue STUDY CAFFEINE
+yes
+status
+criteria
+save _save8
+next
+roll
+9
+status
+criteria
+save _save9
+next
+roll 6
+status
+criteria
+next
+next
+next
+fair
+roll
+next
+fair
+roll
+next
+fair
+roll
+next
+fair
+roll
+status
+criteria
+save _save10
+next
+roll
+trade Blue LECTURE LAB
+yes
+next
+roll
+next
+roll
+next

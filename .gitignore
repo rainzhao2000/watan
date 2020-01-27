@@ -1,0 +1,8 @@
+watan
+*.o
+*.d
+*.swp
+.vscode
+.nfs*
+print
+test_input.cc

@@ -1,0 +1,21 @@
+TODO:
+restart
+
+BUGS:
+FIXED save broken, vector out of range
+reproduce with _testsave0.in
+
+FIXED dice broken, seg fault
+reproduce with _testdice0.in
+
+FIXED dice broken, pv called
+reproduce with _testdice1.in
+
+FIXED fairdice broken, always rolls same sequence of numbers, 8,12,8,4,..
+reproduce with _testdice2.in
+
+FIXED fairdice range 1-6 should be 2-12
+
+* load file out of range error
+
+* trade response, invalid input freezes
